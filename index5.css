@@ -22,7 +22,7 @@ body {
 
 .hero {
   background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
-              url('./ram\ sita1.jpg');
+              url('./imgs/ram\ sita1.jpg');
   background-position: center;
   min-height: 100vh;
   position: relative;
@@ -48,7 +48,7 @@ body {
 }
 
 .invitation {
-  background: url('./colorful-garland-with-flower-it_347118-3.jpg');
+  background: url('./imgs/colorful-garland-with-flower-it_347118-3.jpg');
   background-size: cover;
   background-position: center;
   min-height: 100vh;
