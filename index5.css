@@ -25,7 +25,7 @@ body {
               url('https://www.google.com/imgres?q=shri%20ram%20sita%20images%20free%20download%20png&imgurl=https%3A%2F%2Fwww.pngkey.com%2Fpng%2Fdetail%2F28-289246_lord-rama-transparent-background-shri-ram-darbar-png.png&imgrefurl=https%3A%2F%2Fwww.pngkey.com%2Fdetail%2Fu2q8q8y3w7w7e6u2_lord-rama-transparent-background-shri-ram-darbar-png%2F&docid=NKTpvvXzlmW_jM&tbnid=3vM2wkXuzmZiuM&vet=12ahUKEwiA95XZ8b-OAxVXRmcHHdX6IucQM3oECA0QAA..i&w=820&h=697&hcb=2&ved=2ahUKEwiA95XZ8b-OAxVXRmcHHdX6IucQM3oECA0QAA');
   background-position: center;
   min-height: 100vh;
-  position: absolute;
+  position: relative;
   color: white;
   text-align: center;
   display: flex;
