@@ -21,7 +21,7 @@ body {
 }
 
 .hero {
-  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
               url('https://www.google.com/imgres?q=shri%20ram%20sita%20images%20free%20download%20png&imgurl=https%3A%2F%2Fwww.pngkey.com%2Fpng%2Fdetail%2F28-289246_lord-rama-transparent-background-shri-ram-darbar-png.png&imgrefurl=https%3A%2F%2Fwww.pngkey.com%2Fdetail%2Fu2q8q8y3w7w7e6u2_lord-rama-transparent-background-shri-ram-darbar-png%2F&docid=NKTpvvXzlmW_jM&tbnid=3vM2wkXuzmZiuM&vet=12ahUKEwiA95XZ8b-OAxVXRmcHHdX6IucQM3oECA0QAA..i&w=820&h=697&hcb=2&ved=2ahUKEwiA95XZ8b-OAxVXRmcHHdX6IucQM3oECA0QAA');
   background-position: center;
   min-height: 100vh;
@@ -48,7 +48,7 @@ body {
 }
 
 .invitation {
-  background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fdussehra-themed-3d-rams-bow-quiver-with-diya-border-concept-balanced-traditional-design-foc_298311463.htm&psig=AOvVaw2HmHJFJ2EFUzGGl58mKezu&ust=1752704206629000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOCi3Y_yv44DFQAAAAAdAAAAABAe');
+  background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fdussehra-themed-3d-rams-bow-quiver-with-diya-border-concept-balanced-traditional-design-foc_298311463.htm&psig=AOvVaw2HmHJFJ2EFUzGGl58mKezu&ust=1752704206629000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOCi3Y_yv44DFQAAAAAdAAAAABAe');
   background-size: cover;
   background-position: center;
   min-height: 100vh;
