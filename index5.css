@@ -52,7 +52,7 @@ body {
   background-size: cover;
   background-position: center;
   min-height: 100vh;
-  position: relative;
+  position: absolute;
   color: white;
   text-align: center;
   display: flex;
